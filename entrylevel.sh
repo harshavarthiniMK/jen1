@@ -1,1 +1,1 @@
-echo " This file contains only bascs of day1"
+echo " This file contains only basics of Day1"
