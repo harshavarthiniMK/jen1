@@ -1,2 +1,2 @@
-echo "this s my pipeline practice i have to connect my github file to jenkins pipeline using sh"
-echo " why sh is using in jenkins because jenkins has background linux terminal it can't be directly used to see output by  so using sh to call the file "
+print ("this s my pipeline practice i have to connect my github file to jenkins pipeline using sh")
+print (" why sh is using in jenkins because jenkins has background linux terminal it can't be directly used to see output by  so using sh to call the file ")
